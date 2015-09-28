@@ -1,0 +1,21 @@
+The codes of the data.txt
+"subject" The number of the person in the study
+"activity" The physical activity 
+"body_acc_x" Mean of the acceleration of the body in x axe
+"body_acc_y" Mean of the acceleration of the body in y axe
+"body_acc_z" Mean of the acceleration of the body in z axe
+"gyro_x" Mean of the angular velocity in x axe
+"gyro_y" Mean of the angular velocity in x axe
+"gyro_z" Mean of the angular velocity in x axe
+"total_acc_x" Mean of the total acceleration in x axe
+"total_acc_y" Mean of the total acceleration in y axe
+"total_acc_z" Mean of the total acceleration in z axe
+"sd_body_x" Standard deviation of the acceleration of the body in x axe
+"sd_body_y" Standard deviation of the acceleration of the body in y axe
+"sd_body_z" Standard deviation of the acceleration of the body in z axe
+"sd_gyrox" Standard deviation of the angular velocity in x axe
+"sd_gyroy" Standard deviation of the angular velocity in y axe
+"sd_gyroz" Standard deviation of the angular velocity in z axe
+"sd_total_x" Standard deviation of the total acceleration in x axe
+"sd_total_y" Standard deviation of the total acceleration in y axe
+"sd_total_z" Standard deviation of the total acceleration in z axe
